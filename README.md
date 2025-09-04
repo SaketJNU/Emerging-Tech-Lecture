@@ -11,5 +11,8 @@ For B.Tech First Year AKTU students
 8. Robotics and Industrial Automation
 9. Embedded Systems and Wearable Technologies
 10. VLSI Technologies
-11. 
-
+11. E-Governance & Digital Transformation in India
+12. Energy Scenario, Energy Crisis and Energy Managent
+13. Renewable Energy Technologies
+14. Electric Vehicles (EV) & Battery Technologies
+15. Smart Grids & Sustainable Technologies
