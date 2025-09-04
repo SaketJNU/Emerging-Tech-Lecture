@@ -1,8 +1,8 @@
 # Emerging-Tech-Lecture
 For B.Tech First Year AKTU students
 ### Topic List
-1. Fundamentals of Artificial Intelligence and Machine Learning. [notes](https://github.com/SaketJNU/Emerging-Tech-Lecture/blob/main/notes/Fundamental%20of%20AI%20and%20ML.pdf)
-2. Data Science and Big Data Analytics
+1. Fundamentals of Artificial Intelligence and Machine Learning [notes](https://github.com/SaketJNU/Emerging-Tech-Lecture/blob/main/notes/Fundamental%20of%20AI%20and%20ML.pdf)
+2. Data Science and Big Data Analytics [notes](https://github.com/SaketJNU/Emerging-Tech-Lecture/blob/main/notes/Data%20Science%20and%20Big%20Data%20Analytics.pdf)
 3. Cloud Computing and Edge Cimputing
 4. Cybersecurity Basics
 5. Web Development
